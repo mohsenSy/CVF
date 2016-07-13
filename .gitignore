@@ -26,3 +26,9 @@
 *.exe
 *.out
 *.app
+
+Makefile
+
+lib/Makefile
+src/Makefile
+src/cvf
